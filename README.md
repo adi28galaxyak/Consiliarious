@@ -5,7 +5,7 @@ Consiliarius is an online platform for predicting the area of interest of a comp
 
 ## Download:
 - Download `Consiliarious5.tar.gz` from the repository.   
-- Unzip the Consliarious file and save it to your drive.
+- Unzip the Consliarious file and save it to your drive. [<b><a href="mailto:adityagalaxy.ak@gmail.com">Mail me</a> to get the key</b>]
 
 ## Installation:
 - Open Terminal in Consiliarious directory. 
